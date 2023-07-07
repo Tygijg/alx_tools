@@ -1,1 +1,1 @@
-console.log("School")
+onsole.log("School")
